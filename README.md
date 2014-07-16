@@ -8,3 +8,8 @@ Day 28
 * Git Stuff: [How to fix merge
   conflict](http://tiy-houston-q3-rails.github.io/notes/git.html)
 
+
+Homework
+-----------
+
+None, just work on Week 6 Lab
